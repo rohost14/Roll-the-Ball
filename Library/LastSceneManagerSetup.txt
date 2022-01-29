@@ -1,0 +1,21 @@
+sceneSetups:
+- path: Assets/Scenes/MainMenu.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Example Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Leaderboard Manager/Scenes/Leaderboard Manager/Example/LeaderboardManagerExampleScene.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/EndGameScene.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/StartMenu/Scenes/StartMenu.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e96639a2325449344a852e3cb6413d63, type: 3}
+  m_Name: ShibaArm
+  m_EditorClassIdentifier: 
+  itemName: Shiba Arm
+  sprite: {fileID: 21300006, guid: d8f084b790c5251469d297f2ddff012c, type: 3}
+  backgroundColor: {r: 0.99599147, g: 1, b: 0.33490568, a: 1}
